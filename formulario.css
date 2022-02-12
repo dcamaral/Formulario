@@ -1,4 +1,4 @@
-/* Todos os elementos da página */
+/* Todos os elementos da página --*/
 * {
     margin: 0;
     padding: 0;
@@ -22,7 +22,7 @@
     display: inline-block;
 }
 
-/* Elementos de tag <fieldset>*/
+/* Elementos de tag <fieldset> --*/
 fieldset {
     border: 0;
 }
